@@ -1,0 +1,12 @@
+RunTime SelectionSort 100 = 00:00:00.00
+RunTime SelectionSort 1000 = 00:00:00.00
+RunTime SelectionSort 10000 = 00:00:00.33
+RunTime SelectionSort 100000 = 00:00:22.20
+
+
+RunTime HeapSort 100 = 00:00:00.00
+RunTime HeapSort 1000 = 00:00:00.00
+RunTime HeapSort 10000 = 00:00:00.00
+RunTime HeapSort 100000 = 00:00:00.10
+RunTime HeapSort 1000000 = 00:00:01.45
+RunTime HeapSort 10000000 = 00:00:19.81
